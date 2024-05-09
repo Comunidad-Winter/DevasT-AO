@@ -1,0 +1,184 @@
+[INIT]
+NumArmas=27
+
+[Arma1]
+Dir1=4719 'norte
+Dir2=4721
+Dir3=4718
+Dir4=4720 'sur
+
+[Arma3]
+Dir1=4723 'norte
+Dir2=4725
+Dir3=4722
+Dir4=4724 'sur
+
+'Garrote
+[ARMA4]
+Dir1=10269
+Dir2=10271
+Dir3=10268
+Dir4=10270
+
+'Cimitarra
+[ARMA5]
+Dir1=10295
+Dir2=10297
+Dir3=10294
+Dir4=10296
+
+'Vara de mago
+[ARMA6]
+Dir1=10321
+Dir2=10323
+Dir3=10320
+Dir4=10322
+
+'Arco
+[ARMA7]
+Dir1=10467
+Dir2=10469
+Dir3=10466
+Dir4=10468
+
+'vara de fresno
+[Arma8]	
+Dir3=955
+Dir1=956
+Dir4=957
+Dir2=958
+
+'baston nudoso
+[Arma9]	
+Dir3=982
+Dir1=983
+Dir4=984
+Dir2=985
+
+'baculo engarzado
+[Arma10]	
+Dir3=1009
+Dir1=1010
+Dir4=1011
+Dir2=1012
+
+'hunter's composite long bow
+[Arma11]	
+Dir3=1048
+Dir1=1049
+Dir4=1050
+Dir2=1051
+
+'daga chota
+[Arma12]	
+Dir3=1311
+Dir1=1312
+Dir4=1313
+Dir2=1314
+
+
+'SILVER SWORD
+[Arma13]
+Dir3=13331
+Dir1=13332
+Dir4=13333
+Dir2=13334
+
+'short sword
+[Arma14]
+Dir3=13357
+Dir1=13358
+Dir4=13359
+Dir2=13360
+
+'dragon slayer long sword
+[Arma15]
+Dir3=13383
+Dir1=13384
+Dir4=13385
+Dir2=13386
+
+'Alforja
+[Arma16]
+Dir3=3607
+Dir1=3608
+Dir4=3609
+Dir2=3610
+
+'Mochila
+[Arma17]
+Dir3=3633
+Dir1=3634
+Dir4=3635
+Dir2=3636
+
+'Katana
+[Arma18]
+Dir3=3659
+Dir1=3660
+Dir4=3661
+Dir2=3662
+
+'Espada de Hielo
+[Arma19]
+Dir3=19792
+Dir1=19793
+Dir4=19794
+Dir2=19795
+
+'Arco Rojo
+[ARMA20]
+Dir3=19820
+Dir1=19821
+Dir4=19822
+Dir2=19823
+
+'Hacha Bárbara
+[ARMA21]
+Dir3=19932
+Dir1=19933
+Dir4=19934
+Dir2=19935
+
+'Baculo MD
+[ARMA22]
+Dir3=20021
+Dir1=20022
+Dir4=20023
+Dir2=20024
+
+'Hacha Doble Filo
+[ARMA23]
+Dir3=20052
+Dir1=20053
+Dir4=20054
+Dir2=20055
+
+'Hacha Doble Filo estilo TDS
+[ARMA24]
+Dir3=20322
+Dir1=20323
+Dir4=20324
+Dir2=20325
+
+'Daga +2
+[ARMA25]
+Dir3=20296
+Dir1=20297
+Dir4=20298
+Dir2=20299
+
+'Hacha de Orco
+[ARMA26]
+Dir3=20348
+Dir1=20349
+Dir4=20350
+Dir2=20351
+
+'Horquilla
+[ARMA27]
+Dir3=20374
+Dir1=20375
+Dir4=20376
+Dir2=20377
+

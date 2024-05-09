@@ -1,0 +1,7 @@
+Agradecimientos:
+                A Gs-Zone, por ayudarme a aprender a programar con Visual Basic 6.0
+
+                A Ari (Sorac, Mi Primo) por que el fue el que me motivo a la programación
+                de AO
+
+                Y A Argentum Online V 0.12.1 Por liberar sus codigos.

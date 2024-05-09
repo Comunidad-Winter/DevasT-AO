@@ -1,0 +1,36 @@
+Implementaciones:
+
+Programación:
+
+-Nicks Siempre Visibles
+-MiniMapa
+-Nicks De Gms Verde
+-Letra Se Cambió a "Comic Sanz MS"
+-Link De La Página Del AO En El FrmConnect
+-IP Y Puerto Ocultos En El Cliente
+-Estado Del Servidor En El FrmConnect
+-Cliente Propio
+
+Graficación:
+ 
+-Se Graficaron Más De 30 Objetos Totalmente Propios 
+-Se Graficaron Nuevas Interfaces 
+-Se Graficaron Árboles Nuevos
+-Se Graficaron Estatuas Propias 
+-Se Graficaron Nuevas Paredes
+-Se Graficaron Puertas Dobles Propias 
+-Se Graficaron En Total Más De 100 Graficos
+
+Mapeo:
+
+-Edicion de algunos mapas
+-Se Mapearon Aproximadamente 25 Mapas Para Eventos 
+-Sala De Teleport's
+
+Dateo:
+
+-Se Datearon 120 Objetos Aproximadamente
+
+Indexación:
+
+Se Indexarón Nuevas Armaduras, Cascos, Escudos y Armas.
